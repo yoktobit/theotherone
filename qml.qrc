@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainMenuView.qml</file>
+        <file>GameView.qml</file>
+        <file>Service.js</file>
+        <file>RoomListView.qml</file>
+        <file>RoomView.qml</file>
+        <file>Game.qml</file>
+    </qresource>
+</RCC>
